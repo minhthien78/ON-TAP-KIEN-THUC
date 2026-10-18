@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+   Base: '/ON-TAP-KIEN-THUC/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
