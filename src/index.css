@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Focus mode metadata selector 3 */
+div#root:nth-of-type(1) > div:nth-of-type(1) > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > svg:nth-of-type(1) > path:nth-of-type(3) {
+  border-color: #8fb0cd;
+}

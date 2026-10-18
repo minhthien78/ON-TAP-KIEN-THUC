@@ -1,0 +1,423 @@
+[
+  {
+    "id": "SUB-1791210773161-939",
+    "examCode": "HHTT-2026-001",
+    "studentName": "Học Sinh A",
+    "studentClass": "12A1",
+    "startedAt": "2026-10-05T14:32:53.160Z",
+    "submittedAt": "2026-10-05T14:32:53.160Z",
+    "durationSeconds": 1,
+    "score": 0.9,
+    "correctCount": 1,
+    "incorrectCount": 9,
+    "totalQuestions": 10,
+    "answers": {
+      "Q-SEC1-001": "opt-1-b"
+    },
+    "details": [
+      {
+        "questionId": "Q-SEC1-001",
+        "section": 1,
+        "questionNumber": 1,
+        "questionContent": "Phân tử hiđrocacbon nào sau đây có chứa liên kết ba (–C≡C–) trong công thức cấu tạo?",
+        "isCorrect": true,
+        "pointsEarned": 0.9,
+        "maxPoints": 0.9,
+        "studentAnswer": "B",
+        "correctAnswer": "B",
+        "explanation": "Axetilen có công thức cấu tạo là CH≡CH, chứa 1 liên kết ba giữa 2 nguyên tử cacbon gồm 1 liên kết σ và 2 liên kết π bền vững kém hơn."
+      },
+      {
+        "questionId": "Q-SEC1-002",
+        "section": 1,
+        "questionNumber": 2,
+        "questionContent": "Cho dung dịch BaCl₂ vào dung dịch chứa anion sunfat SO₄²⁻ tạo thành kết tủa màu trắng không tan trong dung dịch axit mạnh. Phương trình ion rút gọn của phản ứng này là:",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.9,
+        "studentAnswer": "Chưa chọn",
+        "correctAnswer": "A",
+        "explanation": "Ion Ba²⁺ kết hợp với ion SO₄²⁻ tạo ra kết tủa bari sunfat (BaSO₄) màu trắng đặc trưng, không tan trong axit."
+      },
+      {
+        "questionId": "Q-SEC1-003",
+        "section": 1,
+        "questionNumber": 3,
+        "questionContent": "Cho hình vẽ mô tả thí nghiệm điều chế và thu khí X trong phòng thí nghiệm bằng phương pháp đẩy nước (H₂O): Đun nóng C₂H₅OH với H₂SO₄ đặc ở 170°C sinh ra khí X. Khí X là chất nào sau đây?",
+        "images": [
+          "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 340\" width=\"100%\" height=\"100%\">\n  <defs>\n    <linearGradient id=\"flaskGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"%23e2e8f0\" stop-opacity=\"0.8\"/>\n      <stop offset=\"50%\" stop-color=\"%23cbd5e1\" stop-opacity=\"0.4\"/>\n      <stop offset=\"100%\" stop-color=\"%2394a3b8\" stop-opacity=\"0.8\"/>\n    </linearGradient>\n    <linearGradient id=\"liquidGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"%23f59e0b\" stop-opacity=\"0.7\"/>\n      <stop offset=\"100%\" stop-color=\"%23b45309\" stop-opacity=\"0.9\"/>\n    </linearGradient>\n    <linearGradient id=\"waterGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"%2338bdf8\" stop-opacity=\"0.4\"/>\n      <stop offset=\"100%\" stop-color=\"%230284c7\" stop-opacity=\"0.7\"/>\n    </linearGradient>\n  </defs>\n  \n  <!-- Background Grid & Frame -->\n  <rect width=\"600\" height=\"340\" fill=\"%23f8fafc\" rx=\"12\"/>\n  <rect x=\"10\" y=\"10\" width=\"580\" height=\"320\" fill=\"none\" stroke=\"%23e2e8f0\" stroke-width=\"1.5\" rx=\"8\"/>\n  <text x=\"300\" y=\"32\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"%230f172a\">\n    SƠ ĐỒ THÍ NGHIỆM ĐIỀU CHẾ VÀ THU KHÍ TRONG PHÒNG THÍ NGHIỆM\n  </text>\n  \n  <!-- Stand & Base -->\n  <rect x=\"50\" y=\"270\" width=\"160\" height=\"12\" fill=\"%23475569\" rx=\"3\"/>\n  <rect x=\"75\" y=\"70\" width=\"8\" height=\"200\" fill=\"%2364748b\"/>\n  <rect x=\"75\" y=\"140\" width=\"65\" height=\"6\" fill=\"%23475569\"/>\n  <rect x=\"135\" y=\"132\" width=\"10\" height=\"22\" fill=\"%23334155\" rx=\"2\"/>\n\n  <!-- Bunsen Burner -->\n  <path d=\"M125 270 L135 230 L145 230 L155 270 Z\" fill=\"%2364748b\"/>\n  <!-- Flame -->\n  <path d=\"M136 228 Q140 200 144 228 Z\" fill=\"%2338bdf8\" opacity=\"0.9\"/>\n  <path d=\"M137 228 Q140 210 143 228 Z\" fill=\"%23f59e0b\"/>\n  <text x=\"140\" y=\"290\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" fill=\"%23475569\">Đèn cồn (t°)</text>\n\n  <!-- Boiling Flask -->\n  <path d=\"M128 115 L128 140 L110 185 A35 35 0 1 0 170 185 L152 140 L152 115 Z\" fill=\"url(%23flaskGrad)\" stroke=\"%23475569\" stroke-width=\"2\"/>\n  <!-- Reaction Mixture (C2H5OH + H2SO4 đ) -->\n  <path d=\"M112 188 A32 32 0 0 0 168 188 Z\" fill=\"url(%23liquidGrad)\"/>\n  <text x=\"140\" y=\"178\" font-family=\"sans-serif\" font-size=\"9\" text-anchor=\"middle\" fill=\"%23ffffff\" font-weight=\"bold\">C₂H₅OH + H₂SO₄ đặc</text>\n\n  <!-- Thermometer -->\n  <line x1=\"140\" y1=\"90\" x2=\"140\" y2=\"180\" stroke=\"%23dc2626\" stroke-width=\"2.5\"/>\n  <circle cx=\"140\" cy=\"180\" r=\"3.5\" fill=\"%23dc2626\"/>\n  <text x=\"148\" y=\"102\" font-family=\"sans-serif\" font-size=\"10\" fill=\"%23dc2626\" font-weight=\"bold\">170°C</text>\n\n  <!-- Rubber Stopper & Delivery Tube -->\n  <rect x=\"126\" y=\"112\" width=\"28\" height=\"8\" fill=\"%23334155\" rx=\"2\"/>\n  <path d=\"M136 112 L136 80 L290 80 L350 220 L400 220\" fill=\"none\" stroke=\"%2338bdf8\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n\n  <!-- Water Basin (Chậu nước H2O) -->\n  <path d=\"M360 210 L370 270 L520 270 L530 210 Z\" fill=\"url(%23waterGrad)\" stroke=\"%230284c7\" stroke-width=\"2\"/>\n  <text x=\"445\" y=\"260\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" fill=\"%230369a1\" font-weight=\"bold\">Chậu nước (H₂O)</text>\n\n  <!-- Inverted Gas Collector Tube (Ống nghiệm thu khí) -->\n  <path d=\"M420 160 L420 250 L450 250 L450 160 Q435 150 420 160 Z\" fill=\"%23ffffff\" fill-opacity=\"0.6\" stroke=\"%230f172a\" stroke-width=\"2\"/>\n  <!-- Bubbles (Khí X) -->\n  <circle cx=\"435\" cy=\"235\" r=\"3\" fill=\"%2338bdf8\"/>\n  <circle cx=\"432\" cy=\"215\" r=\"4\" fill=\"%2338bdf8\"/>\n  <circle cx=\"438\" cy=\"195\" r=\"4.5\" fill=\"%2338bdf8\"/>\n  <circle cx=\"435\" cy=\"175\" r=\"5\" fill=\"%2338bdf8\"/>\n  <text x=\"435\" y=\"172\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" fill=\"%230f172a\" font-weight=\"bold\">Khí X</text>\n\n  <!-- Labels -->\n  <path d=\"M470 170 L510 150\" fill=\"none\" stroke=\"%23475569\" stroke-width=\"1.5\" stroke-dasharray=\"3,3\"/>\n  <text x=\"515\" y=\"153\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%23334155\">Khí X thu bằng</text>\n  <text x=\"515\" y=\"168\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%23334155\">phương pháp đẩy H₂O</text>\n</svg>"
+        ],
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.9,
+        "studentAnswer": "Chưa chọn",
+        "correctAnswer": "A",
+        "explanation": "Phản ứng tách nước của ancol etylic ở 170°C có xúc tác H₂SO₄ đặc sinh ra khí etilen CH₂=CH₂. Etilen ít tan trong H₂O nên được thu bằng phương pháp đẩy nước."
+      },
+      {
+        "questionId": "Q-SEC1-004",
+        "section": 1,
+        "questionNumber": 4,
+        "questionContent": "Chất khí nào sau đây là nguyên nhân chính gây hiệu ứng nhà kính toàn cầu và được giải phóng nhiều từ quá trình đốt cháy hoàn toàn hiđrocacbon và hô hấp?",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.9,
+        "studentAnswer": "Chưa chọn",
+        "correctAnswer": "B",
+        "explanation": "Khí CO₂ (cacbon đioxit) giữ nhiệt bức xạ hồng ngoại trong khí quyển, là tác nhân chính gây hiệu ứng nhà kính."
+      },
+      {
+        "questionId": "Q-SEC1-005",
+        "section": 1,
+        "questionNumber": 5,
+        "questionContent": "Cho dung dịch NaOH vào dung dịch muối chứa cation amoni NH₄⁺ đun nóng nhẹ, hiện tượng quan sát được là:",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.9,
+        "studentAnswer": "Chưa chọn",
+        "correctAnswer": "A",
+        "explanation": "Phương trình: NH₄⁺ + OH⁻ ⎯(t°)→ NH₃↑ + H₂O. Khí amoniac (NH₃) có mùi khai và tính bazơ nên làm xanh quỳ tím ẩm."
+      },
+      {
+        "questionId": "Q-SEC2-001",
+        "section": 2,
+        "questionNumber": 6,
+        "questionContent": "Cho các nhận định về hai hiđrocacbon không no tiêu biểu là etilen (CH₂=CH₂) và axetilen (CH≡CH):",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 2,
+        "studentAnswer": "0/4 ý đúng",
+        "correctAnswer": "a: Đúng, b: Đúng, c: Sai, d: Sai",
+        "explanation": "Ý c sai vì đốt 1 mol CH≡CH tạo 2 mol CO₂ và 1 mol H₂O (nCO₂ > nH₂O). Ý d sai vì chỉ có ankin có liên kết ba đầu mạch (như axetilen) mới phản ứng với AgNO₃/NH₃ tạo kết tủa vàng CAg≡CAg, etilen không có phản ứng này.",
+        "subItems": [
+          {
+            "label": "a",
+            "text": "Phân tử axetilen có công thức cấu tạo là CH≡CH, chứa 1 liên kết ba C≡C.",
+            "studentChoice": null,
+            "correctChoice": true,
+            "isCorrect": false
+          },
+          {
+            "label": "b",
+            "text": "Khí etilen (CH₂=CH₂) có khả năng làm mất màu dung dịch brom ngay ở nhiệt độ thường.",
+            "studentChoice": null,
+            "correctChoice": true,
+            "isCorrect": false
+          },
+          {
+            "label": "c",
+            "text": "Đốt cháy hoàn toàn 1 mol axetilen (CH≡CH) thu được số mol H₂O lớn hơn số mol CO₂.",
+            "studentChoice": null,
+            "correctChoice": false,
+            "isCorrect": false
+          },
+          {
+            "label": "d",
+            "text": "Cả etilen và axetilen đều tạo được kết tủa màu vàng với dung dịch AgNO₃ trong NH₃.",
+            "studentChoice": null,
+            "correctChoice": false,
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": "Q-SEC2-002",
+        "section": 2,
+        "questionNumber": 7,
+        "questionContent": "Cho các nhận định về dung dịch chất điện li và các ion trong môi trường nước:",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 2,
+        "studentAnswer": "0/4 ý đúng",
+        "correctAnswer": "a: Đúng, b: Đúng, c: Sai, d: Sai",
+        "explanation": "Ý c sai vì dung dịch pH = 12 có môi trường bazơ, làm quỳ tím chuyển sang màu xanh. Ý d sai vì kết tủa BaSO₄ có màu trắng tinh khiết, không phải màu vàng nhạt.",
+        "subItems": [
+          {
+            "label": "a",
+            "text": "Trong dung dịch muối amoni sunfat (NH₄)₂SO₄ có tồn tại đồng thời cation NH₄⁺ và anion SO₄²⁻.",
+            "studentChoice": null,
+            "correctChoice": true,
+            "isCorrect": false
+          },
+          {
+            "label": "b",
+            "text": "Phản ứng trao đổi ion xảy ra khi có sự tạo thành chất kết tủa, chất điện li yếu (như H₂O) hoặc chất khí.",
+            "studentChoice": null,
+            "correctChoice": true,
+            "isCorrect": false
+          },
+          {
+            "label": "c",
+            "text": "Dung dịch có pH = 12 ở 25°C làm quỳ tím chuyển màu đỏ.",
+            "studentChoice": null,
+            "correctChoice": false,
+            "isCorrect": false
+          },
+          {
+            "label": "d",
+            "text": "Ion SO₄²⁻ tạo kết tủa màu vàng nhạt khi cho tác dụng với lượng dư dung dịch Ba(OH)₂.",
+            "studentChoice": null,
+            "correctChoice": false,
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "questionId": "Q-SEC3-001",
+        "section": 3,
+        "questionNumber": 8,
+        "questionContent": "Đốt cháy hoàn toàn 0,1 mol một hiđrocacbon mạch hở X thu được đúng 0,2 mol khí CO₂ và 0,2 mol H₂O. Biết phân tử X chứa một liên kết đôi CH₂=CH₂. Tính phân tử khối của X (theo đơn vị amu hoặc g/mol).",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.5,
+        "studentAnswer": "Chưa trả lời",
+        "correctAnswer": "28",
+        "explanation": "Số nguyên tử C = nCO₂ / nX = 2; Số H = 2 × nH₂O / nX = 4. X là C₂H₄ (CH₂=CH₂), M = 28."
+      },
+      {
+        "questionId": "Q-SEC3-002",
+        "section": 3,
+        "questionNumber": 9,
+        "questionContent": "Dẫn 0,1 mol khí axetilen (CH≡CH) sục vào lượng dư dung dịch AgNO₃ trong NH₃. Sau khi phản ứng kết thúc hoàn toàn, thu được m gam kết tủa vàng nhạt có công thức CAg≡CAg. Tính giá trị của m. (Cho biết nguyên tử khối: C = 12, Ag = 108).",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.5,
+        "studentAnswer": "Chưa trả lời",
+        "correctAnswer": "24",
+        "explanation": "Khối lượng kết tủa CAg≡CAg = 0,1 mol × 240 g/mol = 24 gam."
+      },
+      {
+        "questionId": "Q-SEC3-003",
+        "section": 3,
+        "questionNumber": 10,
+        "questionContent": "Cho dung dịch chứa 0,05 mol ion sunfat SO₄²⁻ tác dụng với dung dịch chứa ion Ba²⁺ dư thu được m gam kết tủa trắng BaSO₄. Tính giá trị của m theo gam. (Cho biết nguyên tử khối: Ba = 137, S = 32, O = 16).",
+        "isCorrect": false,
+        "pointsEarned": 0,
+        "maxPoints": 0.5,
+        "studentAnswer": "Chưa trả lời",
+        "correctAnswer": "11.65",
+        "explanation": "Khối lượng kết tủa BaSO₄ = 0,05 × 233 = 11,65 gam."
+      }
+    ]
+  },
+  {
+    "id": "SUB-1791209653261-376",
+    "examCode": "HHTT-2026-001",
+    "studentName": "Trần Minh Khang",
+    "studentClass": "12A1",
+    "startedAt": "2026-10-05T14:14:13.260Z",
+    "submittedAt": "2026-10-05T14:14:13.260Z",
+    "durationSeconds": 1,
+    "score": 10,
+    "correctCount": 10,
+    "incorrectCount": 0,
+    "totalQuestions": 10,
+    "answers": {
+      "Q-SEC1-001": "opt-1-b",
+      "Q-SEC1-002": "opt-2-a",
+      "Q-SEC1-003": "opt-3-a",
+      "Q-SEC1-004": "opt-4-b",
+      "Q-SEC1-005": "opt-5-a",
+      "Q-SEC2-001": {
+        "tf-1-a": true,
+        "tf-1-b": true,
+        "tf-1-c": false,
+        "tf-1-d": false
+      },
+      "Q-SEC2-002": {
+        "tf-2-a": true,
+        "tf-2-b": true,
+        "tf-2-c": false,
+        "tf-2-d": false
+      },
+      "Q-SEC3-001": "28",
+      "Q-SEC3-002": "24",
+      "Q-SEC3-003": "11,65"
+    },
+    "details": [
+      {
+        "questionId": "Q-SEC1-001",
+        "section": 1,
+        "questionNumber": 1,
+        "questionContent": "Phân tử hiđrocacbon nào sau đây có chứa liên kết ba (–C≡C–) trong công thức cấu tạo?",
+        "isCorrect": true,
+        "pointsEarned": 0.9,
+        "maxPoints": 0.9,
+        "studentAnswer": "B",
+        "correctAnswer": "B",
+        "explanation": "Axetilen có công thức cấu tạo là CH≡CH, chứa 1 liên kết ba giữa 2 nguyên tử cacbon gồm 1 liên kết σ và 2 liên kết π bền vững kém hơn."
+      },
+      {
+        "questionId": "Q-SEC1-002",
+        "section": 1,
+        "questionNumber": 2,
+        "questionContent": "Cho dung dịch BaCl₂ vào dung dịch chứa anion sunfat SO₄²⁻ tạo thành kết tủa màu trắng không tan trong dung dịch axit mạnh. Phương trình ion rút gọn của phản ứng này là:",
+        "isCorrect": true,
+        "pointsEarned": 0.9,
+        "maxPoints": 0.9,
+        "studentAnswer": "A",
+        "correctAnswer": "A",
+        "explanation": "Ion Ba²⁺ kết hợp với ion SO₄²⁻ tạo ra kết tủa bari sunfat (BaSO₄) màu trắng đặc trưng, không tan trong axit."
+      },
+      {
+        "questionId": "Q-SEC1-003",
+        "section": 1,
+        "questionNumber": 3,
+        "questionContent": "Cho hình vẽ mô tả thí nghiệm điều chế và thu khí X trong phòng thí nghiệm bằng phương pháp đẩy nước (H₂O): Đun nóng C₂H₅OH với H₂SO₄ đặc ở 170°C sinh ra khí X. Khí X là chất nào sau đây?",
+        "images": [
+          "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 340\" width=\"100%\" height=\"100%\">\n  <defs>\n    <linearGradient id=\"flaskGrad\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"%23e2e8f0\" stop-opacity=\"0.8\"/>\n      <stop offset=\"50%\" stop-color=\"%23cbd5e1\" stop-opacity=\"0.4\"/>\n      <stop offset=\"100%\" stop-color=\"%2394a3b8\" stop-opacity=\"0.8\"/>\n    </linearGradient>\n    <linearGradient id=\"liquidGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"%23f59e0b\" stop-opacity=\"0.7\"/>\n      <stop offset=\"100%\" stop-color=\"%23b45309\" stop-opacity=\"0.9\"/>\n    </linearGradient>\n    <linearGradient id=\"waterGrad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"%2338bdf8\" stop-opacity=\"0.4\"/>\n      <stop offset=\"100%\" stop-color=\"%230284c7\" stop-opacity=\"0.7\"/>\n    </linearGradient>\n  </defs>\n  \n  <!-- Background Grid & Frame -->\n  <rect width=\"600\" height=\"340\" fill=\"%23f8fafc\" rx=\"12\"/>\n  <rect x=\"10\" y=\"10\" width=\"580\" height=\"320\" fill=\"none\" stroke=\"%23e2e8f0\" stroke-width=\"1.5\" rx=\"8\"/>\n  <text x=\"300\" y=\"32\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"%230f172a\">\n    SƠ ĐỒ THÍ NGHIỆM ĐIỀU CHẾ VÀ THU KHÍ TRONG PHÒNG THÍ NGHIỆM\n  </text>\n  \n  <!-- Stand & Base -->\n  <rect x=\"50\" y=\"270\" width=\"160\" height=\"12\" fill=\"%23475569\" rx=\"3\"/>\n  <rect x=\"75\" y=\"70\" width=\"8\" height=\"200\" fill=\"%2364748b\"/>\n  <rect x=\"75\" y=\"140\" width=\"65\" height=\"6\" fill=\"%23475569\"/>\n  <rect x=\"135\" y=\"132\" width=\"10\" height=\"22\" fill=\"%23334155\" rx=\"2\"/>\n\n  <!-- Bunsen Burner -->\n  <path d=\"M125 270 L135 230 L145 230 L155 270 Z\" fill=\"%2364748b\"/>\n  <!-- Flame -->\n  <path d=\"M136 228 Q140 200 144 228 Z\" fill=\"%2338bdf8\" opacity=\"0.9\"/>\n  <path d=\"M137 228 Q140 210 143 228 Z\" fill=\"%23f59e0b\"/>\n  <text x=\"140\" y=\"290\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" fill=\"%23475569\">Đèn cồn (t°)</text>\n\n  <!-- Boiling Flask -->\n  <path d=\"M128 115 L128 140 L110 185 A35 35 0 1 0 170 185 L152 140 L152 115 Z\" fill=\"url(%23flaskGrad)\" stroke=\"%23475569\" stroke-width=\"2\"/>\n  <!-- Reaction Mixture (C2H5OH + H2SO4 đ) -->\n  <path d=\"M112 188 A32 32 0 0 0 168 188 Z\" fill=\"url(%23liquidGrad)\"/>\n  <text x=\"140\" y=\"178\" font-family=\"sans-serif\" font-size=\"9\" text-anchor=\"middle\" fill=\"%23ffffff\" font-weight=\"bold\">C₂H₅OH + H₂SO₄ đặc</text>\n\n  <!-- Thermometer -->\n  <line x1=\"140\" y1=\"90\" x2=\"140\" y2=\"180\" stroke=\"%23dc2626\" stroke-width=\"2.5\"/>\n  <circle cx=\"140\" cy=\"180\" r=\"3.5\" fill=\"%23dc2626\"/>\n  <text x=\"148\" y=\"102\" font-family=\"sans-serif\" font-size=\"10\" fill=\"%23dc2626\" font-weight=\"bold\">170°C</text>\n\n  <!-- Rubber Stopper & Delivery Tube -->\n  <rect x=\"126\" y=\"112\" width=\"28\" height=\"8\" fill=\"%23334155\" rx=\"2\"/>\n  <path d=\"M136 112 L136 80 L290 80 L350 220 L400 220\" fill=\"none\" stroke=\"%2338bdf8\" stroke-width=\"4\" stroke-linecap=\"round\"/>\n\n  <!-- Water Basin (Chậu nước H2O) -->\n  <path d=\"M360 210 L370 270 L520 270 L530 210 Z\" fill=\"url(%23waterGrad)\" stroke=\"%230284c7\" stroke-width=\"2\"/>\n  <text x=\"445\" y=\"260\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" fill=\"%230369a1\" font-weight=\"bold\">Chậu nước (H₂O)</text>\n\n  <!-- Inverted Gas Collector Tube (Ống nghiệm thu khí) -->\n  <path d=\"M420 160 L420 250 L450 250 L450 160 Q435 150 420 160 Z\" fill=\"%23ffffff\" fill-opacity=\"0.6\" stroke=\"%230f172a\" stroke-width=\"2\"/>\n  <!-- Bubbles (Khí X) -->\n  <circle cx=\"435\" cy=\"235\" r=\"3\" fill=\"%2338bdf8\"/>\n  <circle cx=\"432\" cy=\"215\" r=\"4\" fill=\"%2338bdf8\"/>\n  <circle cx=\"438\" cy=\"195\" r=\"4.5\" fill=\"%2338bdf8\"/>\n  <circle cx=\"435\" cy=\"175\" r=\"5\" fill=\"%2338bdf8\"/>\n  <text x=\"435\" y=\"172\" font-family=\"sans-serif\" font-size=\"11\" text-anchor=\"middle\" fill=\"%230f172a\" font-weight=\"bold\">Khí X</text>\n\n  <!-- Labels -->\n  <path d=\"M470 170 L510 150\" fill=\"none\" stroke=\"%23475569\" stroke-width=\"1.5\" stroke-dasharray=\"3,3\"/>\n  <text x=\"515\" y=\"153\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%23334155\">Khí X thu bằng</text>\n  <text x=\"515\" y=\"168\" font-family=\"sans-serif\" font-size=\"11\" fill=\"%23334155\">phương pháp đẩy H₂O</text>\n</svg>"
+        ],
+        "isCorrect": true,
+        "pointsEarned": 0.9,
+        "maxPoints": 0.9,
+        "studentAnswer": "A",
+        "correctAnswer": "A",
+        "explanation": "Phản ứng tách nước của ancol etylic ở 170°C có xúc tác H₂SO₄ đặc sinh ra khí etilen CH₂=CH₂. Etilen ít tan trong H₂O nên được thu bằng phương pháp đẩy nước."
+      },
+      {
+        "questionId": "Q-SEC1-004",
+        "section": 1,
+        "questionNumber": 4,
+        "questionContent": "Chất khí nào sau đây là nguyên nhân chính gây hiệu ứng nhà kính toàn cầu và được giải phóng nhiều từ quá trình đốt cháy hoàn toàn hiđrocacbon và hô hấp?",
+        "isCorrect": true,
+        "pointsEarned": 0.9,
+        "maxPoints": 0.9,
+        "studentAnswer": "B",
+        "correctAnswer": "B",
+        "explanation": "Khí CO₂ (cacbon đioxit) giữ nhiệt bức xạ hồng ngoại trong khí quyển, là tác nhân chính gây hiệu ứng nhà kính."
+      },
+      {
+        "questionId": "Q-SEC1-005",
+        "section": 1,
+        "questionNumber": 5,
+        "questionContent": "Cho dung dịch NaOH vào dung dịch muối chứa cation amoni NH₄⁺ đun nóng nhẹ, hiện tượng quan sát được là:",
+        "isCorrect": true,
+        "pointsEarned": 0.9,
+        "maxPoints": 0.9,
+        "studentAnswer": "A",
+        "correctAnswer": "A",
+        "explanation": "Phương trình: NH₄⁺ + OH⁻ ⎯(t°)→ NH₃↑ + H₂O. Khí amoniac (NH₃) có mùi khai và tính bazơ nên làm xanh quỳ tím ẩm."
+      },
+      {
+        "questionId": "Q-SEC2-001",
+        "section": 2,
+        "questionNumber": 6,
+        "questionContent": "Cho các nhận định về hai hiđrocacbon không no tiêu biểu là etilen (CH₂=CH₂) và axetilen (CH≡CH):",
+        "isCorrect": true,
+        "pointsEarned": 2,
+        "maxPoints": 2,
+        "studentAnswer": "4/4 ý đúng",
+        "correctAnswer": "a: Đúng, b: Đúng, c: Sai, d: Sai",
+        "explanation": "Ý c sai vì đốt 1 mol CH≡CH tạo 2 mol CO₂ và 1 mol H₂O (nCO₂ > nH₂O). Ý d sai vì chỉ có ankin có liên kết ba đầu mạch (như axetilen) mới phản ứng với AgNO₃/NH₃ tạo kết tủa vàng CAg≡CAg, etilen không có phản ứng này.",
+        "subItems": [
+          {
+            "label": "a",
+            "text": "Phân tử axetilen có công thức cấu tạo là CH≡CH, chứa 1 liên kết ba C≡C.",
+            "studentChoice": true,
+            "correctChoice": true,
+            "isCorrect": true
+          },
+          {
+            "label": "b",
+            "text": "Khí etilen (CH₂=CH₂) có khả năng làm mất màu dung dịch brom ngay ở nhiệt độ thường.",
+            "studentChoice": true,
+            "correctChoice": true,
+            "isCorrect": true
+          },
+          {
+            "label": "c",
+            "text": "Đốt cháy hoàn toàn 1 mol axetilen (CH≡CH) thu được số mol H₂O lớn hơn số mol CO₂.",
+            "studentChoice": false,
+            "correctChoice": false,
+            "isCorrect": true
+          },
+          {
+            "label": "d",
+            "text": "Cả etilen và axetilen đều tạo được kết tủa màu vàng với dung dịch AgNO₃ trong NH₃.",
+            "studentChoice": false,
+            "correctChoice": false,
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": "Q-SEC2-002",
+        "section": 2,
+        "questionNumber": 7,
+        "questionContent": "Cho các nhận định về dung dịch chất điện li và các ion trong môi trường nước:",
+        "isCorrect": true,
+        "pointsEarned": 2,
+        "maxPoints": 2,
+        "studentAnswer": "4/4 ý đúng",
+        "correctAnswer": "a: Đúng, b: Đúng, c: Sai, d: Sai",
+        "explanation": "Ý c sai vì dung dịch pH = 12 có môi trường bazơ, làm quỳ tím chuyển sang màu xanh. Ý d sai vì kết tủa BaSO₄ có màu trắng tinh khiết, không phải màu vàng nhạt.",
+        "subItems": [
+          {
+            "label": "a",
+            "text": "Trong dung dịch muối amoni sunfat (NH₄)₂SO₄ có tồn tại đồng thời cation NH₄⁺ và anion SO₄²⁻.",
+            "studentChoice": true,
+            "correctChoice": true,
+            "isCorrect": true
+          },
+          {
+            "label": "b",
+            "text": "Phản ứng trao đổi ion xảy ra khi có sự tạo thành chất kết tủa, chất điện li yếu (như H₂O) hoặc chất khí.",
+            "studentChoice": true,
+            "correctChoice": true,
+            "isCorrect": true
+          },
+          {
+            "label": "c",
+            "text": "Dung dịch có pH = 12 ở 25°C làm quỳ tím chuyển màu đỏ.",
+            "studentChoice": false,
+            "correctChoice": false,
+            "isCorrect": true
+          },
+          {
+            "label": "d",
+            "text": "Ion SO₄²⁻ tạo kết tủa màu vàng nhạt khi cho tác dụng với lượng dư dung dịch Ba(OH)₂.",
+            "studentChoice": false,
+            "correctChoice": false,
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "questionId": "Q-SEC3-001",
+        "section": 3,
+        "questionNumber": 8,
+        "questionContent": "Đốt cháy hoàn toàn 0,1 mol một hiđrocacbon mạch hở X thu được đúng 0,2 mol khí CO₂ và 0,2 mol H₂O. Biết phân tử X chứa một liên kết đôi CH₂=CH₂. Tính phân tử khối của X (theo đơn vị amu hoặc g/mol).",
+        "isCorrect": true,
+        "pointsEarned": 0.5,
+        "maxPoints": 0.5,
+        "studentAnswer": "28",
+        "correctAnswer": "28",
+        "explanation": "Số nguyên tử C = nCO₂ / nX = 2; Số H = 2 × nH₂O / nX = 4. X là C₂H₄ (CH₂=CH₂), M = 28."
+      },
+      {
+        "questionId": "Q-SEC3-002",
+        "section": 3,
+        "questionNumber": 9,
+        "questionContent": "Dẫn 0,1 mol khí axetilen (CH≡CH) sục vào lượng dư dung dịch AgNO₃ trong NH₃. Sau khi phản ứng kết thúc hoàn toàn, thu được m gam kết tủa vàng nhạt có công thức CAg≡CAg. Tính giá trị của m. (Cho biết nguyên tử khối: C = 12, Ag = 108).",
+        "isCorrect": true,
+        "pointsEarned": 0.5,
+        "maxPoints": 0.5,
+        "studentAnswer": "24",
+        "correctAnswer": "24",
+        "explanation": "Khối lượng kết tủa CAg≡CAg = 0,1 mol × 240 g/mol = 24 gam."
+      },
+      {
+        "questionId": "Q-SEC3-003",
+        "section": 3,
+        "questionNumber": 10,
+        "questionContent": "Cho dung dịch chứa 0,05 mol ion sunfat SO₄²⁻ tác dụng với dung dịch chứa ion Ba²⁺ dư thu được m gam kết tủa trắng BaSO₄. Tính giá trị của m theo gam. (Cho biết nguyên tử khối: Ba = 137, S = 32, O = 16).",
+        "isCorrect": true,
+        "pointsEarned": 0.5,
+        "maxPoints": 0.5,
+        "studentAnswer": "11,65",
+        "correctAnswer": "11.65",
+        "explanation": "Khối lượng kết tủa BaSO₄ = 0,05 × 233 = 11,65 gam."
+      }
+    ]
+  }
+]

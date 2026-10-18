@@ -1,0 +1,6 @@
+{
+  "name": "Học Hóa Cùng Thầy Thiện",
+  "description": "Nền tảng tạo & trộn đề thi Hóa học THPT chuẩn 3 phần, bảo toàn công thức hóa học, hình ảnh, tạo link làm bài và chấm điểm tự động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
